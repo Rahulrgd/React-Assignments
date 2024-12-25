@@ -84,7 +84,3 @@ Here are some resources to help you complete the assignments:
 ## **License**
 This project is licensed under the MIT License. Feel free to use and modify the assignments for learning purposes.
 
----
-
-Happy Coding! 🚀
-```
