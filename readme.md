@@ -1,4 +1,3 @@
-```markdown
 # React Assignments for Junior Developers
 
 Welcome to the React Assignment series! This repository contains **8 progressive assignments** designed to help you master React development, from the basics to advanced concepts, along with real-world libraries like Axios, Tailwind CSS, Material UI, and more. By the end of these assignments, you will be well-equipped to tackle real-world projects confidently.
@@ -38,8 +37,6 @@ Welcome to the React Assignment series! This repository contains **8 progressive
 ### 8. **Advanced Topics and Optimizations**
    - Gain insights into performance optimizations, lazy loading, and deploying React apps.
    - Build a mini e-commerce application, utilize custom hooks, and deploy your app to Vercel/Netlify.
-
----
 
 ## **How to Get Started**
 
