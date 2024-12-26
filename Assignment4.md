@@ -1,9 +1,24 @@
-### **Assignment 4: React Router**
-Teach navigation and routing using `react-router-dom`.
+### **Assignment 4: React Hooks**
 
-1. **What is React Router? Why do we use it?**  
-2. **Set up routing in a React app using `react-router-dom`. Create three pages: "Home," "About," and "Contact," and enable navigation between them.**  
-3. **Explain the difference between `BrowserRouter` and `HashRouter`. Which one would you use for a modern React application?**  
-4. **What is the `useParams` hook? Create a blog app with a list of blog posts. Clicking on a blog post opens a new page with details, using dynamic routing.**  
-5. **What is the purpose of the `useNavigate` hook? Add a button to redirect users to the "Contact" page when clicked.**  
-6. **Create a "Not Found" page and set up routing so that any invalid URL redirects to this page.**  
+**Objective**: Practice React hooks (`useState`, `useEffect`, `useContext`, etc.).
+
+1. **Project 1: Weather App**  
+   - Fetch weather data from an API (e.g., OpenWeatherMap).  
+   - Display the current temperature, weather condition, and location.  
+   - Allow the user to search for weather by city name.
+
+2. **Project 2: Expense Tracker**  
+   Build an expense tracker app with the following features:  
+   - Add expenses with a description, amount, and date.  
+   - Display the total expenses.  
+   - Use `useState` for managing expenses and `useEffect` to store/retrieve expenses from local storage.
+
+3. **Project 3: Theme Context**  
+   Create a React app with a theme toggle using `useContext`.  
+   - Use a context provider to store the current theme (light/dark).  
+   - Apply the theme across all components in the app.
+
+4. **Project 4: Search and Filter App**  
+   - Create an app to display a list of items (e.g., movies, books).  
+   - Add a search bar to filter the list dynamically as the user types.  
+   - Fetch the data from a public API like [The Movie Database (TMDb)](https://developers.themoviedb.org/).

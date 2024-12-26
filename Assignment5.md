@@ -1,9 +1,20 @@
-### **Assignment 5: Using Axios for API Calls**
-Introduce fetching data with Axios and handling API responses.
+### **Assignment 5: Component Composition and Reusability**
 
-1. **What is Axios, and why is it preferred over the Fetch API?**  
-2. **Set up Axios in a React app and fetch data from a public API (e.g., JSONPlaceholder). Display the fetched data in a table format.**  
-3. **Explain how to handle errors in Axios. Modify the above app to display an error message if the API call fails.**  
-4. **Create a button to fetch posts from the API and display them dynamically. Add a loading spinner while the data is being fetched.**  
-5. **What is the difference between `GET` and `POST` requests in Axios? Create a form to add a new post to the API using a `POST` request. Log the API response.**  
-6. **Explain the importance of cleanup in API calls. Use the `useEffect` hook to fetch data and implement cleanup to avoid memory leaks.**  
+**Objective**: Focus on building reusable components and understanding advanced props usage.
+
+1. **Project 1: Modal Component**  
+   Build a reusable modal component that can:  
+   - Show dynamic content passed as props.  
+   - Open/close the modal when triggered by a button.
+
+2. **Project 2: Table with Sorting and Pagination**  
+   Create a reusable table component that can:  
+   - Sort columns by ascending/descending order.  
+   - Support pagination.  
+   - Accept data dynamically as props.
+
+3. **Project 3: Chat Application UI**  
+   Build a basic chat UI with the following components:  
+   - **Chat List**: Displays a list of available chat rooms.  
+   - **Chat Window**: Displays messages for the selected chat room.  
+   - Use `props` to pass data and simulate sending/receiving messages.
